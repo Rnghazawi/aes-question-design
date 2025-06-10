@@ -8,31 +8,32 @@ The goal of this experiment is to practically validate the effectiveness of the 
 
 ## 🧠 Model Overview
 
-- BERT is used as the feature extractor to generate contextual embeddings for essay inputs.
+- **BERT** is used as the feature extractor to generate contextual embeddings for essay inputs.
 
-- CNN is applied on top of BERT embeddings to capture local text patterns and perform classification.
+- **CNN** is applied on top of BERT embeddings to capture local text patterns and perform classification.
 
 ## 📁 Files
 
-Chapter3_CNN_BERT_Criteria_Validation_Cleaned.ipynb: The cleaned Jupyter notebook containing the full experiment.
+Chapter3_CNN_BERT_Criteria_Validation.ipynb: The Jupyter notebook containing the full experiment.
 
 <!-- Chapter3_CNN_BERT_Criteria_Validation.py: The script version for easy readability and modular editing. -->
 
 ## ▶️ How to Run
 
-1. Install Required Packages
+## 1. Install Required Packages
 ```bash
 pip install torch transformers pandas numpy scikit-learn
 ```
-2. Run the Notebook
+## 2. Run the Notebook
 
 Use Jupyter:
 ```bash
-jupyter notebook Chapter3_CNN_BERT_Criteria_Validation_Cleaned.ipynb
+jupyter notebook Chapter3_CNN_BERT_Criteria_Validation.ipynb
 ```
+<!--
 Or execute the Python script:
 
-python Chapter3_CNN_BERT_Criteria_Validation.py
+python Chapter3_CNN_BERT_Criteria_Validation.py -->
 
 # 📊 Output
 
