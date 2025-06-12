@@ -43,16 +43,17 @@ python Chapter3_CNN_BERT_Criteria_Validation.py -->
 
 - Graphs for training/validation performance
 
-# 📌 Notes
+## 📌 Notes
 
 - Essay data must be preprocessed to match BERT tokenisation requirements.
 
 - Ensure you load the correct version of BERT via Hugging Face.
 
 
-📞 Contact
+## 📞 Contact
 
-For questions or collaboration: **Rayed Ghazawi**\
+For questions or collaboration:\
+**Rayed Ghazawi**\
 PhD Candidate, University of Bristol\
 Email: [rnghazawi@uqu.edu.sa]
 
