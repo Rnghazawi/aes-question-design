@@ -49,7 +49,6 @@ python Chapter3_CNN_BERT_Criteria_Validation.py -->
 
 - Ensure you load the correct version of BERT via Hugging Face.
 
-- This experiment assumes a balanced dataset across classes.
 
 📞 Contact
 
